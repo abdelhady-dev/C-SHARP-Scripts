@@ -1,0 +1,3 @@
+extract color layers
+caclulate histogram
+remove noise

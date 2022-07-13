@@ -1,0 +1,11 @@
+D:\Study\Conputer Science\level 4\part 1\Image Processing\lab\C#\openDialogApp\bin\Release\openDialogApp.exe.config
+D:\Study\Conputer Science\level 4\part 1\Image Processing\lab\C#\openDialogApp\bin\Release\openDialogApp.exe
+D:\Study\Conputer Science\level 4\part 1\Image Processing\lab\C#\openDialogApp\bin\Release\openDialogApp.pdb
+D:\Study\Conputer Science\level 4\part 1\Image Processing\lab\C#\openDialogApp\bin\Release\openCV.dll
+D:\Study\Conputer Science\level 4\part 1\Image Processing\lab\C#\openDialogApp\obj\Release\openDialogApp.Form1.resources
+D:\Study\Conputer Science\level 4\part 1\Image Processing\lab\C#\openDialogApp\obj\Release\openDialogApp.Properties.Resources.resources
+D:\Study\Conputer Science\level 4\part 1\Image Processing\lab\C#\openDialogApp\obj\Release\openDialogApp.csproj.GenerateResource.cache
+D:\Study\Conputer Science\level 4\part 1\Image Processing\lab\C#\openDialogApp\obj\Release\openDialogApp.csproj.CoreCompileInputs.cache
+D:\Study\Conputer Science\level 4\part 1\Image Processing\lab\C#\openDialogApp\obj\Release\openDialogApp.csproj.CopyComplete
+D:\Study\Conputer Science\level 4\part 1\Image Processing\lab\C#\openDialogApp\obj\Release\openDialogApp.exe
+D:\Study\Conputer Science\level 4\part 1\Image Processing\lab\C#\openDialogApp\obj\Release\openDialogApp.pdb

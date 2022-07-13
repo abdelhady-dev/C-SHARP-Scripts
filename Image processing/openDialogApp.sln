@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "openDialogApp", "openDialogApp.csproj", "{644105DE-3901-4EEB-900E-DB55B129F091}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{644105DE-3901-4EEB-900E-DB55B129F091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644105DE-3901-4EEB-900E-DB55B129F091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644105DE-3901-4EEB-900E-DB55B129F091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644105DE-3901-4EEB-900E-DB55B129F091}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66AB796A-7D97-4277-B5BF-0F8A84FB7C83}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\Study\Conputer Science\level 3\part 2\File Organization\assignment\assinment1Calculator\assinment1Calculator\obj\Debug\netcoreapp3.1\assinment1Calculator.csprojAssemblyReference.cache
+D:\Study\Conputer Science\level 3\part 2\File Organization\assignment\assinment1Calculator\assinment1Calculator\obj\Debug\netcoreapp3.1\assinment1Calculator.calculator.resources
+D:\Study\Conputer Science\level 3\part 2\File Organization\assignment\assinment1Calculator\assinment1Calculator\obj\Debug\netcoreapp3.1\assinment1Calculator.csproj.GenerateResource.cache
+D:\Study\Conputer Science\level 3\part 2\File Organization\assignment\assinment1Calculator\assinment1Calculator\obj\Debug\netcoreapp3.1\assinment1Calculator.AssemblyInfoInputs.cache
+D:\Study\Conputer Science\level 3\part 2\File Organization\assignment\assinment1Calculator\assinment1Calculator\obj\Debug\netcoreapp3.1\assinment1Calculator.AssemblyInfo.cs
+D:\Study\Conputer Science\level 3\part 2\File Organization\assignment\assinment1Calculator\assinment1Calculator\obj\Debug\netcoreapp3.1\assinment1Calculator.csproj.CoreCompileInputs.cache
+D:\Study\Conputer Science\level 3\part 2\File Organization\assignment\assinment1Calculator\assinment1Calculator\bin\Debug\netcoreapp3.1\assinment1Calculator.exe
+D:\Study\Conputer Science\level 3\part 2\File Organization\assignment\assinment1Calculator\assinment1Calculator\bin\Debug\netcoreapp3.1\assinment1Calculator.deps.json
+D:\Study\Conputer Science\level 3\part 2\File Organization\assignment\assinment1Calculator\assinment1Calculator\bin\Debug\netcoreapp3.1\assinment1Calculator.runtimeconfig.json
+D:\Study\Conputer Science\level 3\part 2\File Organization\assignment\assinment1Calculator\assinment1Calculator\bin\Debug\netcoreapp3.1\assinment1Calculator.runtimeconfig.dev.json
+D:\Study\Conputer Science\level 3\part 2\File Organization\assignment\assinment1Calculator\assinment1Calculator\bin\Debug\netcoreapp3.1\assinment1Calculator.dll
+D:\Study\Conputer Science\level 3\part 2\File Organization\assignment\assinment1Calculator\assinment1Calculator\bin\Debug\netcoreapp3.1\assinment1Calculator.pdb
+D:\Study\Conputer Science\level 3\part 2\File Organization\assignment\assinment1Calculator\assinment1Calculator\obj\Debug\netcoreapp3.1\assinment1Calculator.dll
+D:\Study\Conputer Science\level 3\part 2\File Organization\assignment\assinment1Calculator\assinment1Calculator\obj\Debug\netcoreapp3.1\assinment1Calculator.pdb
+D:\Study\Conputer Science\level 3\part 2\File Organization\assignment\assinment1Calculator\assinment1Calculator\obj\Debug\netcoreapp3.1\assinment1Calculator.genruntimeconfig.cache
